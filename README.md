@@ -48,4 +48,3 @@ Built using HTML, CSS, and JavaScript.
  Footer & Credits
  At the bottom, you'll see a footer with credits, the year and me who designed the app.
 
- NB: I used a single file including inline css and javascript to keep my work neat no need for alot of files.
