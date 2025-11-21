@@ -1,5 +1,6 @@
 # the_book_wizard
-A simple, fast, and interactive web application that fetches data from a public API and allows users to search, sort, and save favorites. Built using HTML, CSS, and JavaScript.
+A simple, fast, and interactive web application that fetches data from a public API and allows users to search, sort, and save favorites.
+Built using HTML, CSS, and JavaScript.
 
 #Features
  Search data from an external API
